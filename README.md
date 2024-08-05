@@ -5,7 +5,7 @@ I'm a passionate developer with experience in building web applications using te
 
 ## 🛠 Skills
 - **Languages**: JavaScript, SQL, NoSql
-- **Frameworks**: React, Node.js 
+- **Frameworks**: React, Node.js, Express js, Flask 
 - **Tools**: Git, VS Code
 
 
